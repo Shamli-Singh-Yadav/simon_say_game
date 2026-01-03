@@ -37,8 +37,13 @@ Test your memory by repeating an ever-growing sequence of colors.
 ## 📂 Project Structure
 Simon-Says-Game/
 │
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
+
 
