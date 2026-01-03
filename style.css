@@ -93,3 +93,8 @@ h2, h3 {
     background-color: white;
     opacity: 1;
 }
+
+ footer {
+    text-align: center;
+    color: #f7f8fc;
+  }
